@@ -1,0 +1,17 @@
+[ 
+   { 
+      "currencies":[ 
+         { 
+            "code":"AFN",
+            "name":"Afghan afghani",
+            "symbol":"؋"
+         }
+      ],
+      "name":"Afghanistan",
+      "capital":"Kabul",
+      "latlng":[ 
+         33.0,
+         65.0
+      ]
+   }
+ ]
